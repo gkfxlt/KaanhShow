@@ -1,0 +1,5 @@
+E:\2018\Show\AnyCAD\KaanhShow\RobotView\bin\Debug\RobotView.dll
+E:\2018\Show\AnyCAD\KaanhShow\RobotView\bin\Debug\RobotView.pdb
+E:\2018\Show\AnyCAD\KaanhShow\RobotView\obj\Debug\RobotView.csprojResolveAssemblyReference.cache
+E:\2018\Show\AnyCAD\KaanhShow\RobotView\obj\Debug\RobotView.dll
+E:\2018\Show\AnyCAD\KaanhShow\RobotView\obj\Debug\RobotView.pdb

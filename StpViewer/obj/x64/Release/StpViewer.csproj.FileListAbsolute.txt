@@ -1,0 +1,5 @@
+D:\知乎\KaanhShow\StpViewer\obj\x64\Release\StpViewer.csprojAssemblyReference.cache
+D:\知乎\KaanhShow\StpViewer\obj\x64\Release\StpViewer.MainForm.resources
+D:\知乎\KaanhShow\StpViewer\obj\x64\Release\StpViewer.Properties.Resources.resources
+D:\知乎\KaanhShow\StpViewer\obj\x64\Release\StpViewer.csproj.GenerateResource.cache
+D:\知乎\KaanhShow\StpViewer\obj\x64\Release\StpViewer.csproj.CoreCompileInputs.cache

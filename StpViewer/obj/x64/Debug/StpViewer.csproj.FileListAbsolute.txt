@@ -1,0 +1,18 @@
+E:\2018\Show\AnyCAD\新建文件夹 (2)\bin\x64\Debug\StpViewer.exe.config
+E:\2018\Show\AnyCAD\新建文件夹 (2)\bin\x64\Debug\StpViewer.exe
+E:\2018\Show\AnyCAD\新建文件夹 (2)\bin\x64\Debug\StpViewer.pdb
+E:\2018\Show\AnyCAD\新建文件夹 (2)\StpViewer\obj\x64\Debug\StpViewer.csprojResolveAssemblyReference.cache
+E:\2018\Show\AnyCAD\新建文件夹 (2)\StpViewer\obj\x64\Debug\StpViewer.MainForm.resources
+E:\2018\Show\AnyCAD\新建文件夹 (2)\StpViewer\obj\x64\Debug\StpViewer.Properties.Resources.resources
+E:\2018\Show\AnyCAD\新建文件夹 (2)\StpViewer\obj\x64\Debug\StpViewer.csproj.GenerateResource.Cache
+E:\2018\Show\AnyCAD\新建文件夹 (2)\StpViewer\obj\x64\Debug\StpViewer.exe
+E:\2018\Show\AnyCAD\新建文件夹 (2)\StpViewer\obj\x64\Debug\StpViewer.pdb
+E:\2018\Show\AnyCAD\KaanhShow\bin\x64\Debug\StpViewer.exe.config
+E:\2018\Show\AnyCAD\KaanhShow\StpViewer\obj\x64\Debug\StpViewer.exe
+E:\2018\Show\AnyCAD\KaanhShow\StpViewer\obj\x64\Debug\StpViewer.pdb
+E:\2018\Show\AnyCAD\KaanhShow\bin\x64\Debug\StpViewer.exe
+E:\2018\Show\AnyCAD\KaanhShow\bin\x64\Debug\StpViewer.pdb
+E:\2018\Show\AnyCAD\KaanhShow\StpViewer\obj\x64\Debug\StpViewer.csprojResolveAssemblyReference.cache
+E:\2018\Show\AnyCAD\KaanhShow\StpViewer\obj\x64\Debug\StpViewer.MainForm.resources
+E:\2018\Show\AnyCAD\KaanhShow\StpViewer\obj\x64\Debug\StpViewer.Properties.Resources.resources
+E:\2018\Show\AnyCAD\KaanhShow\StpViewer\obj\x64\Debug\StpViewer.csproj.GenerateResource.Cache
